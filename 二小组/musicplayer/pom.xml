@@ -17,7 +17,6 @@
 		<httpclient.version>4.3.1</httpclient.version>
 		<aspectj.version>1.8.5</aspectj.version>
 		<jedis.version>2.2.1</jedis.version>
-		<gudong.version>3.5.18-lanxin-SNAPSHOT</gudong.version>
 		<!-- Plugin参数设置 -->
 		<maven-surefire-plugin.skip>false</maven-surefire-plugin.skip>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
